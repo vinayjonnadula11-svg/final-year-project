@@ -1,6 +1,6 @@
 # CPW-Fed Fractal Antenna for Wireless Applications
 
-**🎓 Academic Project**
+## 🎓 Academic Project
 
 This project was carried out as part of my B.Tech Final-Year Project in the Department of Electronics and Communication Engineering (ECE).
 
@@ -21,7 +21,7 @@ The proposed antenna uses a fractal geometry on the radiating patch to achieve a
 
 The design aims to achieve good impedance matching, low return loss, stable radiation characteristics, and suitable gain for modern wireless communication applications.
 
-** Project Gallery**
+## Project Gallery
 1. Initial Antenna Design
 <img width="882" height="549" alt="WhatsApp Image 2026-11-07 at 9 25 16 PM" src="https://github.com/user-attachments/assets/20de7d38-5482-4e8e-b257-d1e6a46bc1f9" />
 
