@@ -21,7 +21,7 @@ The proposed antenna uses a fractal geometry on the radiating patch to achieve a
 
 The design aims to achieve good impedance matching, low return loss, stable radiation characteristics, and suitable gain for modern wireless communication applications.
 
-## Project Gallery
+##   🖼️  Project Gallery
 1. Initial Antenna Design
 <img width="882" height="549" alt="WhatsApp Image 2026-11-07 at 9 25 16 PM" src="https://github.com/user-attachments/assets/20de7d38-5482-4e8e-b257-d1e6a46bc1f9" />
 
@@ -111,7 +111,8 @@ The proposed antenna achieved the following simulated performance:
 
 The simulated and measured results show similar performance, with a slight resonance frequency shift in the measured response.
 
-🏭 Fabricated Antenna
+## 🏭 Fabricated Antenna
+
 Front View
 <<img width="1380" height="814" alt="WhatsApp Image 2026-11-07 at 9 27 58 PM" src="https://github.com/user-attachments/assets/ae285187-a107-4751-a40c-ea3440ea4b4f" />
 
